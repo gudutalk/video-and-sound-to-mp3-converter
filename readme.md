@@ -30,7 +30,4 @@ eğer ses içeriyorsa aynı dosya ismiyle mp3 e çevrilir.
 - Çıktı klasöründe mp3 dosyaları yer alır.
 
 
-# Lisans
-
-
 
