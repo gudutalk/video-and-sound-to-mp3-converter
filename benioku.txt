@@ -1,0 +1,16 @@
+[muConvert dosyasına çift tıklamak yeterlidir]
+[Lütfen alttaki yazıları dikkatli bir şekilde  okuyun]
+-Girdi klasörüne koyulan her türlü ses(wav,flac,aac,3gp vs.) ve video(mp4,flv,gif vs.) 
+eğer ses içeriyorsa aynı dosya ismiyle mp3 e çevrilir.
+
+-Eğer çıktı klasöründe aynı dosya ismine sahip başka bir dosya varsa üstüne yazılacağı unutulmamalıdır.
+
+-Girdi içerisinde programa uygun olmayan bir dosya varsa(resim dosyası gibi) yoksayılır.
+
+
+[Girdi Klasörü]
+	- Girdi klasörü içerisinde örnek dosyalar mevcuttur. Programı çalıştırıp çıktı klasörüne bakabilirsiniz.
+	- Çalıştığını gördükten sonra ------girdi----- ve ------çıktı----- klasörü içindeki dosyaları silmeniz isteğe bağlıdır.
+	
+[cikti-girdi-tool-benioku.txt-muConvert.exe dosya ve klasörleri silinmemelidir]
+
